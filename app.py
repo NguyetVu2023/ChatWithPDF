@@ -9,7 +9,7 @@ from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 
 def get_pdf_text(pdf_docs):
