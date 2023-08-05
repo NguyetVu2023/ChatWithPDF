@@ -10,7 +10,7 @@ from htmlTemplates import css, bot_template, user_template
 import os
 from dotenv import load_dotenv
 
-# os.environ["OPENAI_API_KEY"] = "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"
+
 
 
 def get_pdf_text(pdf_docs):
